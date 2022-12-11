@@ -85,7 +85,7 @@ author:
   bio              : "PhD candidate in Robotics"
   location         : "HKU, HK"
   employer         :
-  pubmed           : "https://space.bilibili.com/607205349"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=SI26pRMAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -99,7 +99,7 @@ author:
   github           : "professor1996"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/rio_sanjii"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  bilibili         : 
+  bilibili         : "https://space.bilibili.com/607205349"
   xing             :
   youtube          :
   wikipedia        :
