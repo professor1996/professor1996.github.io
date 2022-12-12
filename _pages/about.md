@@ -12,11 +12,11 @@ Rui Peng is a PhD candidate in robotics at [The Department of Mechanical Enginee
 My current supervisor is Dr. Peng Lu, who is leading the [Adaptive Robotic Controls Lab (ArcLab)](https://arclab.hku.hk/).
 My research interests include unmanned aerial vehicle (UAVs), continuum robot, and visual servoing.
 I am doing research on aerial manipulators, and origami-inspired continuum robotic manipulators, with advanced mechanical design, kinematic modeling and feedback control. 
-If we have similar research spots, please feel free to contact me (pengrui-rio@connect.hku.hk)~
 
 About my leisure life, I am a basketball player and self-weight fitness trainer, for which I upload my training vlogs in [bilibili](https://space.bilibili.com/607205349).
 Also, I love music, movie, and photography. 
 
+If we have similar spots, please contact me (pengrui-rio@connect.hku.hk)~
 
 
 Education
