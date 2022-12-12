@@ -21,9 +21,9 @@ Also, I love music, movie, and photography.
 
 Education
 ======
-* B.S. in Wuhan University (WHU), 2014-2018
-* M.S. in Wuhan University (WHU), 2018-2020
 * Ph.D in The University of Hong Kong (hku), 2021-present
+* M.S. in Wuhan University (WHU), 2018-2020
+* B.S. in Wuhan University (WHU), 2014-2018
 
 Work Experience
 ======
