@@ -34,14 +34,14 @@ Work Experience
 Publications
 ======
 
-	<P><b>R. Peng</b>, X. Chen and P. Lu, "A Motion decoupled Aerial Robotic Manipulator for Better Inspection," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp. 4207-4213.</P>
+<P><b>R. Peng</b>, X. Chen and P. Lu, "A Motion decoupled Aerial Robotic Manipulator for Better Inspection," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp. 4207-4213.</P>
 
-	<P><b>R. Peng</b>, P. Zhou, M. Xu, V. Wu and D. Navarro-Alarcon, "Path Planning With Automatic Seam Extraction Over Point Cloud Models for Robotic Arc Welding," in IEEE Robotics and Automation Letters, vol. 6, no. 3, pp. 5002-5009, July 2021.</P>
+<P><b>R. Peng</b>, P. Zhou, M. Xu, V. Wu and D. Navarro-Alarcon, "Path Planning With Automatic Seam Extraction Over Point Cloud Models for Robotic Arc Welding," in IEEE Robotics and Automation Letters, vol. 6, no. 3, pp. 5002-5009, July 2021.</P>
 
-	<P><b>R. Peng</b> and P. Lu, "Fast Adaptive Complementary Filter for Quadrotor Attitude Estimation During Aggressive Maneuvers," 2021 International Conference on Unmanned Aircraft Systems (ICUAS), 2021, pp. 182-187.</P>
+<P><b>R. Peng</b> and P. Lu, "Fast Adaptive Complementary Filter for Quadrotor Attitude Estimation During Aggressive Maneuvers," 2021 International Conference on Unmanned Aircraft Systems (ICUAS), 2021, pp. 182-187.</P>
 
-	<P><b>R. Peng</b>, D. Navarro-Alarcon, V. Wu and W. Yang, "A Point Cloud-Based Method for Automatic Groove Detection and Trajectory Generation of Robotic Arc Welding Tasks," 2020 17th International Conference on Ubiquitous Robots (UR), 2020, pp. 380-386.</P>
-	
-  
+<P><b>R. Peng</b>, D. Navarro-Alarcon, V. Wu and W. Yang, "A Point Cloud-Based Method for Automatic Groove Detection and Trajectory Generation of Robotic Arc Welding Tasks," 2020 17th International Conference on Ubiquitous Robots (UR), 2020, pp. 380-386.</P>
+
+
 
  
