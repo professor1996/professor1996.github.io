@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 permalink: /year-archive/
 title: "Blog posts"
@@ -7,13 +7,13 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-### UR robotic manipulator and moveit tutorial
+<!-- ### UR robotic manipulator and moveit tutorial
 
 https://github.com/professor1996/welding-robot
 
 ### Continuum robotic manipulator
 
-
+ -->
 
 
 
