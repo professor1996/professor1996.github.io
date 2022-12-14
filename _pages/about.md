@@ -46,10 +46,10 @@ Publication
 Blog 
 ======
 
-#### UR robotic manipulator and moveit tutorial
+### UR robotic manipulator and moveit tutorial
 
 https://github.com/professor1996/welding-robot
 
-#### Continuum robotic manipulator
+### Continuum robotic manipulator
 
  
