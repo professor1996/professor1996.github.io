@@ -31,7 +31,7 @@ Work Experience
 * Sinnovation Ventures AI Institute: Internship
 * DJ-Innovation Company (DJI): Robotics Engineer
   
-Publications
+Publication
 ======
 
 <P>[C] <b>R. Peng</b>, X. Chen and P. Lu, "A Motion decoupled Aerial Robotic Manipulator for Better Inspection," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp. 4207-4213.</P>
