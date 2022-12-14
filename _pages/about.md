@@ -43,5 +43,13 @@ Publication
 <P>[C] <b>R. Peng</b>, D. Navarro-Alarcon, V. Wu and W. Yang, "A Point Cloud-Based Method for Automatic Groove Detection and Trajectory Generation of Robotic Arc Welding Tasks," 2020 17th International Conference on Ubiquitous Robots (UR), 2020, pp. 380-386.</P>
 
 
+Blog 
+======
+
+#### UR robotic manipulator and moveit tutorial
+
+https://github.com/professor1996/welding-robot
+
+#### Continuum robotic manipulator
 
  
