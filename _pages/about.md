@@ -21,7 +21,7 @@ If we have similar spots, please contact me (pengrui-rio@connect.hku.hk)~
 
 Education
 ======
-* Ph.D in The University of Hong Kong (hku), 2021-present
+* Ph.D in The University of Hong Kong (HKU), 2021-present
 * M.S. in Wuhan University (WHU), 2018-2020
 * B.S. in Wuhan University (WHU), 2014-2018
 
